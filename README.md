@@ -1,5 +1,5 @@
 # Jackpot
-Find three repeated characters in an array with 5 index
+Find three repeated characters in an array with 5 indexes
 <p><strong>Status:</strong> If the first three character is same then return true</p>
 <p><strong>Symbol:</strong> If Status is true, then write the character/symbol</p>
 <p><strong>Count:</strong> If Status is true, then write how many times the symbol is repeated</p>
